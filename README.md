@@ -30,11 +30,12 @@ Certainly, here are the step-by-step instructions for setting up and running the
 
 6. **So click on manual Deploy and select deploy with latest commit**
    -and wait 2-3 mint after that your website will be published.
+   -https://spam-classifier-d15y.onrender.com/
    
 
  
 
-By following these steps, you can set up a virtual environment, download the ChromeDriver, install necessary requirements, and run the `application.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
+By following these steps, you can set up a virtual environment, install necessary requirements, and run the `app.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
 
 ## Hurray Enjoy the code
 
