@@ -31,6 +31,9 @@ Certainly, here are the step-by-step instructions for setting up and running the
 6. **So click on manual Deploy and select deploy with latest commit**
    -and wait 2-3 mint after that your website will be published.
    -https://spam-classifier-d15y.onrender.com/
+
+   ![image](https://github.com/MasteriNeuron/Spam-Classifier/assets/127201746/844642ad-2c2d-4ede-88ca-cd19206cf233)
+
    
 
  
